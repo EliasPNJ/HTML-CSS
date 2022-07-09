@@ -31,7 +31,7 @@ a{
     text-decoration: none;
     margin-right: 30px;
 }
-#button{
+.button{
     display: inline-block;
     background-color: #F25A70;
     height: 60px;
@@ -43,9 +43,67 @@ a{
     transition: transform 100ms linear, background-color 100ms linear;
     
 }
-#button:hover {
+.button:hover {
     background-color: #7C5E99;
     box-shadow: 7px 7px 0 #000000;
     transform: scale(1.05);
+}
+
+#banner{
+    display: flex;
+    height: 797px;
+    background-color: #645af2c0;
+    
+}
+
+#box{
+    width: 627px;
+    height: 184px;
+    background-color: #3A4042;
+    margin-left: 91px;
+    margin-top: 116px;
+    box-shadow: 10px 10px 0 #000000;
+}
+h1{
+    color: #F25A70;
+    font-family: 'Press Start 2P',Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px;
+    text-shadow: 4px 4px 0 #000000; 
+    padding-left:90px ;
+    padding-top: 42px;
+    padding-bottom: 28px;
+
+}
+h2{
+    color: #ffffff;
+    font-family: 'Press Start 2P',Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 30px;
+    text-shadow: 4px 4px 0 #000000;
+    padding-left:40px ;
+    padding-bottom: 44px;
+} 
+#buttonBox{
+    position: absolute;
+    margin-top: 338px;
+    margin-left: 181px;
+}
+#buttonBox1{
+    position: absolute;
+    margin-top: 338px;
+    margin-left: 463px;
+ }
+.button1{
+    display: inline-block;
+    width: 170px;
+    height: 60px;
+}
+.button2{
+    display: inline-block;
+    width: 170px;
+    height: 60px;
 }
 

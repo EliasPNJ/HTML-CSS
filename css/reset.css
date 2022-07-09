@@ -1,3 +1,6 @@
-body{
+body,h1,h2,section{
     margin: 0;
+}
+h1,h2{
+    padding: 0;
 }
