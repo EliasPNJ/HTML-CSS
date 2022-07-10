@@ -1,0 +1,22 @@
+h1{
+    color: #F25A70;
+    font-family: 'Press Start 2P',Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px;
+    text-shadow: 4px 4px 0 #000000; 
+    padding-left:90px ;
+    padding-top: 42px;
+    padding-bottom: 28px;
+
+}
+h2{
+    color: #ffffff;
+    font-family: 'Press Start 2P',Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 30px;
+    text-shadow: 4px 4px 0 #000000;
+    padding-left:40px ;
+    padding-bottom: 44px;
+} 
