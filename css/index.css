@@ -52,7 +52,7 @@ a{
 #banner{
     display: flex;
     height: 797px;
-    background-color: #645af2c0;
+    background-image: url(../assets/img/Banner.jpeg);
     
 }
 
