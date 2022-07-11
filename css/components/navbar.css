@@ -1,0 +1,18 @@
+.navbar::before{
+    content: "";
+    display: inline-block;
+    background-color: #F25A70;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+}
+.navbar{
+    display:inline-flex;
+    align-items: center;
+    color: inherit;
+    font-size: 20px;
+    font-family: inherit;
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 30px;
+}

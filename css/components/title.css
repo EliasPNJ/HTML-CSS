@@ -1,4 +1,4 @@
-h1{
+.title{
     color: #F25A70;
     font-family: 'Press Start 2P',Arial, Helvetica, sans-serif;
     font-weight: 400;
@@ -7,7 +7,7 @@ h1{
     text-shadow: 4px 4px 0 #000000;  
 }
 
-h2{
+.subtitle{
     color: #ffffff;
     font-family: 'Press Start 2P',Arial, Helvetica, sans-serif;
     font-weight: 400;
