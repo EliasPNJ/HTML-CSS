@@ -1,4 +1,18 @@
 .banner{
     height: 797px;
     background-image: url(../../assets/img/Banner.jpeg);
+    border-bottom: 10px solid #000000;
+}
+
+.banner .wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 750px;
+}
+
+.banner .navigation{
+    display: flex;
+    margin-left: 91px;
+    margin-top: 38px;
+    justify-content: space-around;
 }
