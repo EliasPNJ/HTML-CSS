@@ -1,18 +1,20 @@
 .banner{
-    height: 797px;
+    box-sizing: border-box;
+    height: 800px;
     background-image: url(../../assets/img/Banner.jpeg);
     border-bottom: 10px solid #000000;
+    padding-left: 91px;
+    padding-top: 116px;
 }
 
 .banner .wrapper{
     display: flex;
     flex-direction: column;
-    width: 750px;
+    width: 640px;
 }
 
 .banner .navigation{
     display: flex;
-    margin-left: 91px;
     margin-top: 38px;
     justify-content: space-around;
 }
