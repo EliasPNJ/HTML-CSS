@@ -1,0 +1,12 @@
+.skills{
+    box-sizing: border-box;
+    background-color: #828282;
+    height: 730px;
+    padding-top: 50px;
+    border-bottom: 10px solid #000000;
+}
+.skills .subtitle {
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
