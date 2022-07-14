@@ -1,0 +1,16 @@
+.skills .skill_list{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.skills .skill_list .skill{
+    display: flex;
+    flex-direction: row;
+}
+.skill .subtitle{
+    font-size: 25px;
+}
+.skill_list li {
+    list-style: none;
+}
