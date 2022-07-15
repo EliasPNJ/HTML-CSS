@@ -1,9 +1,9 @@
 .banner{
     box-sizing: border-box;
     height: 800px;
+    background-size: 100% 100%;
     background-image: url(../../assets/img/Banner.jpeg);
     background-repeat: no-repeat;
-    background-size: 100%;
     border-bottom: 10px solid #000000;
     padding-left: 91px;
     padding-top: 116px;
